@@ -1,3 +1,3 @@
-# DataScience
+# DataScience and Machine Learning
 
-Test1
+Some basic scripts used to learn and improve.
